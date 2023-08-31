@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working DigiSpráva.cz
+🔭 I’m currently working on https://digi-sprava.cz
 
 
 # 💻 Tech Stack:
